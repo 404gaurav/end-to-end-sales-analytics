@@ -137,7 +137,7 @@ Certain products generate negative profit:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](/tree/main/dashboard)
+![Dashboard Preview](/dashboard)
 
 ---
 ## 💡 Business Recommendations
