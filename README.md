@@ -172,7 +172,7 @@ The dashboard provides actionable insights that can support strategic planning a
 
 ## 👨‍💻 Author
 
-**Gaurav Singh Rathore**  
-Engineering Student | Aspiring Data Analyst | Entrepreneur  
+**Gaurav Singh**  
+Engineering Student | Aspiring Data Analyst  
 
 
