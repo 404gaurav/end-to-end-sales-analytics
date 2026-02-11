@@ -164,9 +164,9 @@ end-to-end-sales-analytics/
 
 ## 📌 Conclusion
 
-This analysis demonstrates how data-driven decision-making can improve revenue growth, optimize profitability, and identify operational inefficiencies.
+This project analyzes sales performance to uncover key revenue, profit, and growth insights. The analysis shows consistent year-over-year growth, strong performance from the Technology category, and higher profitability in the West and East regions. Seasonal trends indicate peak sales during year-end months.
 
-The dashboard provides actionable insights that can support strategic planning and business expansion.
+The dashboard highlights both high-performing and loss-making products, enabling data-driven decisions on pricing, regional strategy, and product optimization. Overall, this project demonstrates how data analysis can support strategic business decision-making.
 
 ---
 
